@@ -1,0 +1,16 @@
+@article{duch2005community,
+  title={Community detection in complex networks using extremal optimization},
+  author={Duch, Jordi and Arenas, Alex},
+  journal={Physical review E},
+  volume={72},
+  number={2},
+  pages={027104},
+  year={2005},
+  publisher={APS}
+}
+
+http://deim.urv.cat/~alexandre.arenas/data/welcome.htm
+
+List of edges of the metabolic network of C.elegans. Data processed by members of our group. 
+
+Metabolic [39]:Ametabolic network of C.elegans. (8)

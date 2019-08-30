@@ -1,0 +1,17 @@
+http://vlado.fmf.uni-lj.si/pub/networks/data/cite/
+
+SmaGri. It is a directed network of citations between academic papers from or citing Scientometrics included in Pajek Datasets on webpage http://vlado.fmf.uni-lj.si/pub/networks/data/cite/. (6)
+
+Small Griffith and Descendants (SmaGri) [35]: Citations to Small Griffith and Descendants
+
+@article{Hummon1989Connectivity,
+  title={Connectivity in a citation network: The development of DNA theory},
+  author={Hummon, Norman P. and Dereian, Patrick},
+  journal={Social Networks},
+  volume={11},
+  number={1},
+  pages={39-63},
+  year={1989},
+}
+
+& 618   & 2912  & 9.424 & 2.606  & 0.416         & -0.221        & 5.269         & 0.409

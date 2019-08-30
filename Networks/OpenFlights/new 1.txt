@@ -1,0 +1,15 @@
+@article{Opsahl2010Node,
+  title={Node centrality in weighted networks: Generalizing degree and shortest paths},
+  author={Opsahl, Tore and Agneessens, Filip and Skvoretz, John},
+  journal={Social Networks},
+  volume={32},
+  number={3},
+  pages={245-251},
+  year={2010},
+}
+
+Open flights (OF)39: the network of flights between airports of the world
+http://konect.uni-koblenz.de/networks/opsahl-openflights
+
+
+& 2905  & 15645 & 10.771        & 4.097  & 0.456         & 0.049         & 5.184         & 0.267

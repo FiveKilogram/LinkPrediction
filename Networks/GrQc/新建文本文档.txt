@@ -1,0 +1,22 @@
+(1) GrQc. As a collaboration networks, the Arxiv GR-QC (General Relativity and Quantum Cosmology) is obtained from e-print arXiv and covers scientific collaboration between the authors of papers submitted to the General Relativity and Quantum Cosmology category [41]. It can be accessed at Stanford Large Network Datasets on http://snap.stanford.edu/data/ca-GrQc.html.
+
+J. Leskovec, J. Kleinberg and C. Faloutsos. Graph Evolution: Densification and Shrinking Diameters. ACM Transactions on Knowledge Discovery from Data (ACM TKDD), 1(1), 2007.
+
+@article{Leskovec:2007:GED:1217299.1217301,
+ author = {Leskovec, Jure and Kleinberg, Jon and Faloutsos, Christos},
+ title = {Graph Evolution: Densification and Shrinking Diameters},
+ journal = {ACM Trans. Knowl. Discov. Data},
+ issue_date = {March 2007},
+ volume = {1},
+ number = {1},
+ month = mar,
+ year = {2007},
+ issn = {1556-4681},
+ articleno = {2},
+ url = {http://doi.acm.org/10.1145/1217299.1217301},
+ doi = {10.1145/1217299.1217301},
+ acmid = {1217301},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Densification power laws, graph generators, graph mining, heavy-tailed distributions, small-world phenomena},
+} 
